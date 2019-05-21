@@ -1,2 +1,2 @@
-# MATLAB-for-field-interfaces
+# MATLAB-for-electric-magnetic-field-interfaces
 calculating fields in dielectric-dielectric interfaces
